@@ -22,6 +22,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Fix multiple issues with integration tests
 - Fix uuidv4 import
 - Fix missing uuidv4 import in integration test.
+- Fixing the ability to choose default input in browsers when default changes
 
 ## [1.10.0] - 2020-06-23
 
